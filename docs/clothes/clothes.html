@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Vericu - Clothing Collection</title>
+    <link rel="stylesheet" href="clothes.css">
+
+</head>
+<body>
+    <div class="header">
+        <a href="../index.html" class="back-btn">← Back to Home</a>
+        <h1 class="logo">CLOTHING COLLECTION</h1>
+        <p>Dress to impress with our premium fashion</p>
+    </div>
+
+    <div class="container">
+        <div class="admin-section">
+            <h2 class="admin-title">Add New Clothing Item</h2>
+            <form id="clothing-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="name">Item Name</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="price">Price ($)</label>
+                        <input type="number" id="price" name="price" step="0.01" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="category">Category</label>
+                        <select id="category" name="category" required>
+                            <option value="">Select Category</option>
+                            <option value="shirts">Shirts</option>
+                            <option value="pants">Pants</option>
+                            <option value="dresses">Dresses</option>
+                            <option value="jackets">Jackets</option>
+                            <option value="accessories">Accessories</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="sizes">Available Sizes (comma separated)</label>
+                        <input type="text" id="sizes" name="sizes" placeholder="XS, S, M, L, XL" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="image">Image URL</label>
+                        <input type="url" id="image" name="image" placeholder="https://example.com/clothing-image.jpg">
+                    </div>
+                    <div class="form-group">
+                        <label for="color">Color</label>
+                        <input type="text" id="color" name="color" placeholder="Blue, Red, etc.">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <textarea id="description" name="description" placeholder="Describe the clothing item..."></textarea>
+                    </div>
+                </div>
+                <button type="submit" class="add-btn">Add Clothing Item</button>
+            </form>
+        </div>
+
+        <div class="filter-section">
+    <div class="filter-row">
+        <div class="filter-group">
+            <label for="search">Search by Name</label>
+            <input type="text" id="search" placeholder="Search products...">
+        </div>
+        <div class="filter-group">
+            <label for="min-price">Min Price ($)</label>
+            <input type="number" id="min-price" placeholder="0" min="0" step="0.01">
+        </div>
+        <div class="filter-group">
+            <label for="max-price">Max Price ($)</label>
+            <input type="number" id="max-price" placeholder="1000" min="0" step="0.01">
+        </div>
+        <!-- For clothes.html only - add this select -->
+        <div class="filter-group" id="category-filter" style="display: none;">
+            <label for="filter-category">Category</label>
+            <select id="filter-category">
+                <option value="">All Categories</option>
+                <option value="shirts">Shirts</option>
+                <option value="pants">Pants</option>
+                <option value="dresses">Dresses</option>
+                <option value="jackets">Jackets</option>
+                <option value="accessories">Accessories</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label for="filter-size">Size</label>
+            <input type="text" id="filter-size" placeholder="Enter size...">
+        </div>
+        <button class="clear-filters-btn" onclick="clearFilters()">Clear Filters</button>
+    </div>
+    <div class="results-count" id="results-count"></div>
+</div>
+
+        <div id="products-container">
+            <div class="no-products">
+                <p>No clothing items added yet. Use the form above to add your first item!</p>
+            </div>
+        </div>
+    </div>
+    <div id="productModal" class="modal">
+    <div class="modal-content">
+        <button class="modal-close" onclick="closeModal()">&times;</button>
+        <div id="modal-image-container"></div>
+        <div class="modal-details">
+            <div id="modal-name" class="modal-name"></div>
+            <div id="modal-category" class="modal-category" style="display: none;"></div>
+            <div id="modal-description" class="modal-description"></div>
+            <div id="modal-color" class="modal-color" style="display: none;"></div>
+            <div id="modal-price" class="modal-price"></div>
+            <div id="modal-sizes" class="modal-sizes"></div>
+        </div>
+    </div>
+</div>
+     <script src="clothes.js"></script>
+ 
+</body>
+</html>
