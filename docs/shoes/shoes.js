@@ -1,4 +1,7 @@
 // Initialize shoes array and form elements
+// Note: In a real application, you would use localStorage, sessionStorage, or a database
+// For demonstration purposes, we'll show how to implement localStorage (though it won't work in Claude artifacts)
+
 let shoes = [];
 let filteredShoes = [];
 let currentFilters = {
@@ -10,6 +13,51 @@ let currentFilters = {
 
 const form = document.getElementById('shoe-form');
 const container = document.getElementById('products-container');
+
+// Data persistence functions
+function saveShoes() {
+    try {
+        // In a real environment, uncomment this line:
+         localStorage.setItem('shoes', JSON.stringify(shoes));
+        console.log('Shoes would be saved to localStorage:', shoes);
+    } catch (error) {
+        console.error('Could not save shoes:', error);
+    }
+}
+
+function loadShoes() {
+    try {
+        // In a real environment, uncomment these lines:
+        const savedShoes = localStorage.getItem('shoes');
+         if (savedShoes) {
+            shoes = JSON.parse(savedShoes);
+             return;
+         }
+        console.log('Would load shoes from localStorage');
+    } catch (error) {
+        console.error('Could not load shoes:', error);
+    }
+    
+    // Fallback to sample data if nothing saved
+    shoes = [
+        {
+            id: 1,
+            name: "Premium Sneakers",
+            price: 129.99,
+            image: "",
+            sizes: ["8", "9", "10", "11"],
+            description: "Comfortable and stylish sneakers perfect for everyday wear"
+        },
+        {
+            id: 2,
+            name: "Classic Leather Boots",
+            price: 199.99,
+            image: "",
+            sizes: ["7", "8", "9", "10", "11", "12"],
+            description: "Durable leather boots with timeless style"
+        }
+    ];
+}
 
 // Form submission handler
 form.addEventListener('submit', function(e) {
@@ -26,6 +74,7 @@ form.addEventListener('submit', function(e) {
     };
 
     shoes.push(shoe);
+    saveShoes(); // Save to persistence after adding
     renderShoes();
     form.reset();
 });
@@ -118,6 +167,7 @@ function renderShoes() {
 function deleteShoe(id) {
     if (confirm('Are you sure you want to delete this shoe?')) {
         shoes = shoes.filter(shoe => shoe.id !== id);
+        saveShoes(); // Save to persistence after deleting
         // Reapply current filters after deletion
         applyFilters();
     }
@@ -252,25 +302,6 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
-// Add some sample data
-shoes = [
-    {
-        id: 1,
-        name: "Premium Sneakers",
-        price: 129.99,
-        image: "",
-        sizes: ["8", "9", "10", "11"],
-        description: "Comfortable and stylish sneakers perfect for everyday wear"
-    },
-    {
-        id: 2,
-        name: "Classic Leather Boots",
-        price: 199.99,
-        image: "",
-        sizes: ["7", "8", "9", "10", "11", "12"],
-        description: "Durable leather boots with timeless style"
-    }
-];
-
-// Initialize the page
+// Initialize the page - load saved data first
+loadShoes();
 renderShoes();
