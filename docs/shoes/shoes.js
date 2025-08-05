@@ -561,24 +561,114 @@ function loadShoes() {
             sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
             description: "Șlapi de Terasă și Aroganță"
         },
-        ,
+        
         {
-            id: 101,
-            name: "Yeezy Foam Runner ",
+            id: 117,
+            name: "Yeezy Foam Runner Vermilion",
             price: 190,
-            image: "",
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425416/17_yufbtl.jpg",
             sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
             description: "Șlapi de Terasă și Aroganță"
         },
-        ,
+        
         {
-            id: 101,
-            name: "Yeezy Foam Runner ",
+            id: 118,
+            name: "Yeezy Foam Runner MX Carbon",
             price: 190,
-            image: "",
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425416/18_tr7flq.jpg",
             sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
             description: "Șlapi de Terasă și Aroganță"
         },
+        
+        {
+            id: 119,
+            name: "Yeezy Foam Runner MX Sand Grey",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425441/19_ow8zpy.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 120,
+            name: "Yeezy Foam Runner Ochre",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425469/20_tgujaa.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 121,
+            name: "Yeezy Foam Runner Flax",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425514/21_c9fc8l.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 122,
+            name: "Yeezy Foam Runner Sulfur",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/22_mbsjzf.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 123,
+            name: "Yeezy Foam Runner Brown bruv",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/23_vfpalc.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 124,
+            name: "Yeezy Foam Runner Cream White",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/24_bnalqu.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 125,
+            name: "Yeezy Foam Runner MX Granite",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425516/25_ttwbnt.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        }
+        ,
+        {
+            id: 126,
+            name: "Yeezy Foam Runner Brown Leaves",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425519/26_pny4bw.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 127,
+            name: "Yeezy Foam Runner MX Cream Clay",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425519/27_jpszmm.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 129,
+            name: "Yeezy Foam Runner Mist ",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425520/29_ketyvg.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        }
+        
+        
+
 
 
 
