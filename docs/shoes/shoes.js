@@ -429,7 +429,158 @@ function loadShoes() {
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391113/49_hxu7fw.jpg",
             sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
             description: "Incaltari cu Arome de All-Inclusive"
-        }
+        },
+        {
+            id: 101,
+            name: "Yeezy Slides Glow 2Green",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/1_nkifkh.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 102,
+            name: "Yeezy Slides Ochre",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/2_pybsys.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 103,
+            name: "Yeezy Slides Onyx",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/3_zj1n5h.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 104,
+            name: "Yeezy Slides Azzure",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/4_dmnpke.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 105,
+            name: "Yeezy Slides Flax",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/5_w5opka.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 106,
+            name: "Yeezy Slides Enflame Orange",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/6_aiplru.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 107,
+            name: "Yeezy Slides Pure",
+            price: 190,
+            image: "",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 108,
+            name: "Yeezy Slides Flax2",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/8_hwwc4t.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 109,
+            name: "Yeezy Slides Resin",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/9_emi6de.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 110,
+            name: "Yeezy Slides Flax3", 
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/10_vsawxj.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 111,
+            name: "Yeezy Slides Flax4",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/11_tz2yuc.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 112,
+            name: "Yeezy Slides Flax5",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425413/12_abpois.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 113,
+            name: "Yeezy Foam Runner Sulfur",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/13_tqhzop.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 114,
+            name: "Yeezy Foam Runner Onyx",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/14_htv8f3.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 115,
+            name: "Yeezy Foam Runner MX Cinder",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/15_ebjsxf.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        
+        {
+            id: 116,
+            name: "Yeezy Foam Runner Ararat",
+            price: 190,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/16_oz5w6j.jpg",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        ,
+        {
+            id: 101,
+            name: "Yeezy Foam Runner ",
+            price: 190,
+            image: "",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+        ,
+        {
+            id: 101,
+            name: "Yeezy Foam Runner ",
+            price: 190,
+            image: "",
+            sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
+            description: "Șlapi de Terasă și Aroganță"
+        },
+
+
 
 
     ];
