@@ -42,20 +42,396 @@ function loadShoes() {
     shoes = [
         {
             id: 1,
-            name: "Premium Sneakers",
-            price: 129.99,
-            image: "",
-            sizes: ["8", "9", "10", "11"],
-            description: "Comfortable and stylish sneakers perfect for everyday wear"
+            name: "Yeezy 350 V2 Yeshaya",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/1_d8pbox.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 2,
-            name: "Classic Leather Boots",
-            price: 199.99,
-            image: "",
-            sizes: ["7", "8", "9", "10", "11", "12"],
-            description: "Durable leather boots with timeless style"
+                    id: 2,
+                    name: "Yeezy 350 V2 Cloud White",
+                    price: 390,
+                    image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/2_gaw9rf.jpg",
+                    sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+                    description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 3,
+            name: "Yeezy 350 V2 Flax",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/3_vg95ox.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 4,
+            name: "Yeezy 350 V2 Cinder Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/4_dvjob5.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        
+
+        {
+            id: 5,
+            name: "Yeezy 350 V2 Linen ",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/5_pzb2vx.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 6,
+            name: "Yeezy 350 V2 Cloud White Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/6_tlvzaw.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 7,
+            name: "Yeezy 350 V2 Synth",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/7_tztqra.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 8,
+            name: "Yeezy 350 V2 Lundmark Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/8_h5ja7n.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 9,
+            name: "Yeezy 350 V2 Ash Blue",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390791/9_nbmkra.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 10,
+            name: "Yeezy 350 V2 Ash Stone",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/10_ijhfor.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 11,
+            name: "Yeezy 350 V2 Ash Pearl",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/11_cjdfab.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 12,
+            name: "Yeezy 350 V2 Beluga Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/12_z9n1tf.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 13,
+            name: "Yeezy 350 V2 Bone",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390794/13_vw90x5.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 14,
+            name: "Yeezy 350 V2 Black Blue",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390794/14_tq34rc.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 15,
+            name: "Yeezy 350 V2 Dark Beluga",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390795/15_tgrqmp.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 16,
+            name: "Yeezy 350 V2 Onyx",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390795/16_c6gzce.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 17,
+            name: "Yeezy 350 V2 Brown Orange",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390797/17_f4u0ck.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 18,
+            name: "Yeezy 350 V2 Static Black Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390797/18_t9qluj.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 19,
+            name: "Yeezy 350 V2 Black FU9006",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390798/19_srqaya.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 20,
+            name: "Yeezy 350 V2 Static Reflective EF2367",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390800/20_neurbl.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 21,
+            name: "Yeezy 350 V2 Static EF2905",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390800/21_uoabgb.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 22,
+            name: "Yeezy 350 V2 Sesame",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390801/22_pybbrp.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 23,
+            name: "Yeezy 350 V2 Cinder",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390802/23_ve3cw6.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 24,
+            name: "Yeezy 350 V2 Synth Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390804/24_l4t2mk.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 25,
+            name: "Yeezy 350 V2 True From",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390804/25_akixie.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 26,
+            name: "Yeezy 350 V2 Clay",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390805/26_kymjev.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 27,
+            name: "Yeezy 350 V2 Hyperspace",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390805/27_nqbctq.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 28,
+            name: "Yeezy 350 V2 Abez",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390807/28_ulxmbf.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 29,
+            name: "Yeezy 350 V2 Zyon",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390808/29_tpdfsi.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 30,
+            name: "Yeezy 350 V2 Bold Orange Real Boost",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390808/30_zxzof8.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+         {
+            id: 31,
+            name: "Yeezy 350 V2 Core Black Red",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390809/31_uakno4.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+
+
+        {
+            id: 32,
+            name: "Yeezy 350 V2 Black White",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390830/32_zn9wwt.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 33,
+            name: "Yeezy 350 V2 Slate",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391072/33_hvzw5b.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 34,
+            name: "Yeezy 350 V2 Blue Tint",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391100/34_arrbn7.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 35,
+            name: "Yeezy 350 V2 Cream White",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/35_emeom2.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        
+        {
+            id: 36,
+            name: "Yeezy 350 V2 Beluga",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/36_qcdjzb.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+
+        {
+            id: 38,
+            name: "Yeezy 350 V2 Earth",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/38_z1j739.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 39,
+            name: "Yeezy 350 V2 Desert Sage",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391104/39_fyux5x.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 40,
+            name: "Yeezy 350 V2 YECHER",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/40_hsx8sk.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 41,
+            name: "Yeezy 350 V2 Bred",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/41_psleip.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 42,
+            name: "Yeezy 350 V2 Zebra",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/42_owkag5.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 43,
+            name: "Yeezy 350 V2 Tail Light",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391108/43_g2dyf4.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 44,
+            name: "Yeezy 350 V2 Israfil",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391108/44_whgnpd.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 45,
+            name: "Yeezy 350 V2 Yecheil Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391109/45_ifmpfl.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 46,
+            name: "Yeezy 350 V2 Butter",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391110/46_p2luqn.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 47,
+            name: "Yeezy 350 V2 Citrin Reflective",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391112/47_twnr09.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 48,
+            name: "Yeezy 350 V2 Lundmark",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391112/48_cdisck.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
+        },
+        {
+            id: 49,
+            name: "Yeezy 350 V2 Yeshaya",
+            price: 390,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391113/49_hxu7fw.jpg",
+            sizes: ["36", "36 2/3", "37 1/3", "38 2/3", "39 1/3", "40", "40 2/3", "41 1/3", "42", "42 2/3", "43 1/3", "44", "44 2/3", "45 1/3", "46", "46 2/3", "47 1/3", "48"],
+            description: "Incaltari cu Arome de All-Inclusive"
         }
+
+
     ];
 }
 
