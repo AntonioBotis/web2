@@ -745,7 +745,7 @@ function loadShoes() {
             id: 5009,
             name: "Adidas Samba JJJJOUND White",
             price: 399,
-            image: "",
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/9_druez1.jpg",
             sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
             description: "Pantofi de Nuntă cu Buget Mic"
         }
@@ -831,7 +831,332 @@ function loadShoes() {
             sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
             description: "Pantofi de Nuntă cu Buget Mic"
         }
-        
+        ,
+        {
+            id: 5101,
+            name: "Adidas Spezial Blue1",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512636/1_rmbcsw.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5102,
+            name: "Adidas Spezial Pink",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512636/2_mzb9nn.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5103,
+            name: "Adidas Spezial Piano Black",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/3_vltk5h.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5104,
+            name: "Adidas Spezial Black",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512636/4_ijeany.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5105,
+            name: "Adidas Spezial Blue2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/5_gidcln.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5106,
+            name: "Adidas Spezial Red",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/6_u33egn.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5107,
+            name: "Adidas Spezial Pink2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/7_zcdjz4.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5108,
+            name: "Adidas Spezial Gray",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/8_vg14yx.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5109,
+            name: "Adidas Spezial Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512637/9_qmsopf.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5110,
+            name: "Adidas Spezial Blue3",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512652/10_jzyrrv.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5111,
+            name: "Adidas Spezial Purple",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754512682/11_omrv6k.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5201,
+            name: "Adidas Campus Black",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514042/1_reyxtq.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5202,
+            name: "Adidas Campus Gray",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514042/2_jqcv0k.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5203,
+            name: "Adidas Campus Black Gray",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514043/3_agh5l2.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5204,
+            name: "Adidas Campus Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514042/4_k8fjas.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5205,
+            name: "Adidas Campus Burgundy",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514043/5_q4qulx.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5206,
+            name: "Adidas Campus Black2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514044/6_gluacm.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5207,
+            name: "Adidas Campus Orange",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514046/7_nm4ozx.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5208,
+            name: "Adidas Campus Violet ",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514047/8_z2jzel.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5209,
+            name: "Adidas Campus Green2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514048/9_kolgtm.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5210,
+            name: "Adidas Campus Pink",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514049/10_ddanbo.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5211,
+            name: "Adidas Campus Yellow Brown",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514051/11_ctzsmn.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5212,
+            name: "Adidas Campus Black3",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514051/12_zbr758.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5213,
+            name: "Adidas Campus Blue",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514053/13_rk0xml.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5214,
+            name: "Adidas Campus Blue2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514054/14_qvfxbg.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5215,
+            name: "Adidas Campus White Leopard",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514055/15_pyxala.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5216,
+            name: "Adidas Campus Black Leopard",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514057/16_fuhopl.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5217,
+            name: "Adidas Campus Gray Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514058/17_opcai3.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5218,
+            name: "Adidas Campus Black4",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514060/18_wchcjy.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5219,
+            name: "Adidas Campus Brown Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514062/19_pgqup0.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5220,
+            name: "Adidas Campus Brown",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514063/20_jrnmdv.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5221,
+            name: "Adidas Campus Military Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514065/21_qvessy.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5222,
+            name: "Adidas Campus Pink2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514066/22_n9tvgo.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5223,
+            name: "Adidas Campus Blue4",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514068/23_rl1soi.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5224,
+            name: "Adidas Campus Orange2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514069/24_clwgyp.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5223,
+            name: "Adidas Campus Pink3",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514071/25_svhrfx.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+
+
 
         
         
