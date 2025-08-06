@@ -41,7 +41,7 @@ function loadShoes() {
     // Fallback to sample data if nothing saved
     shoes = [
         {
-            id: 1,
+            id: 351,
             name: "Yeezy 350 V2 Yeshaya",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/1_d8pbox.jpg",
@@ -49,7 +49,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-                    id: 2,
+                    id: 352,
                     name: "Yeezy 350 V2 Cloud White",
                     price: 390,
                     image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/2_gaw9rf.jpg",
@@ -57,7 +57,7 @@ function loadShoes() {
                     description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 3,
+            id: 353,
             name: "Yeezy 350 V2 Flax",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/3_vg95ox.jpg",
@@ -65,7 +65,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 4,
+            id: 354,
             name: "Yeezy 350 V2 Cinder Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390788/4_dvjob5.jpg",
@@ -75,7 +75,7 @@ function loadShoes() {
         
 
         {
-            id: 5,
+            id: 355,
             name: "Yeezy 350 V2 Linen ",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/5_pzb2vx.jpg",
@@ -83,7 +83,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 6,
+            id: 356,
             name: "Yeezy 350 V2 Cloud White Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/6_tlvzaw.jpg",
@@ -91,7 +91,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 7,
+            id: 357,
             name: "Yeezy 350 V2 Synth",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/7_tztqra.jpg",
@@ -99,7 +99,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 8,
+            id: 358,
             name: "Yeezy 350 V2 Lundmark Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390789/8_h5ja7n.jpg",
@@ -107,7 +107,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 9,
+            id: 359,
             name: "Yeezy 350 V2 Ash Blue",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390791/9_nbmkra.jpg",
@@ -115,7 +115,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 10,
+            id: 360,
             name: "Yeezy 350 V2 Ash Stone",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/10_ijhfor.jpg",
@@ -123,7 +123,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 11,
+            id: 361,
             name: "Yeezy 350 V2 Ash Pearl",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/11_cjdfab.jpg",
@@ -131,7 +131,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 12,
+            id: 362,
             name: "Yeezy 350 V2 Beluga Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390792/12_z9n1tf.jpg",
@@ -139,7 +139,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 13,
+            id: 363,
             name: "Yeezy 350 V2 Bone",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390794/13_vw90x5.jpg",
@@ -147,7 +147,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 14,
+            id: 364,
             name: "Yeezy 350 V2 Black Blue",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390794/14_tq34rc.jpg",
@@ -155,7 +155,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 15,
+            id: 365,
             name: "Yeezy 350 V2 Dark Beluga",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390795/15_tgrqmp.jpg",
@@ -163,7 +163,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 16,
+            id: 366,
             name: "Yeezy 350 V2 Onyx",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390795/16_c6gzce.jpg",
@@ -171,7 +171,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 17,
+            id: 367,
             name: "Yeezy 350 V2 Brown Orange",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390797/17_f4u0ck.jpg",
@@ -179,7 +179,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 18,
+            id: 368,
             name: "Yeezy 350 V2 Static Black Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390797/18_t9qluj.jpg",
@@ -187,7 +187,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 19,
+            id: 369,
             name: "Yeezy 350 V2 Black FU9006",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390798/19_srqaya.jpg",
@@ -195,7 +195,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 20,
+            id: 370,
             name: "Yeezy 350 V2 Static Reflective EF2367",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390800/20_neurbl.jpg",
@@ -203,7 +203,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 21,
+            id: 371,
             name: "Yeezy 350 V2 Static EF2905",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390800/21_uoabgb.jpg",
@@ -211,7 +211,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 22,
+            id: 372,
             name: "Yeezy 350 V2 Sesame",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390801/22_pybbrp.jpg",
@@ -219,7 +219,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 23,
+            id: 373,
             name: "Yeezy 350 V2 Cinder",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390802/23_ve3cw6.jpg",
@@ -227,7 +227,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 24,
+            id: 374,
             name: "Yeezy 350 V2 Synth Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390804/24_l4t2mk.jpg",
@@ -235,7 +235,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 25,
+            id: 375,
             name: "Yeezy 350 V2 True From",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390804/25_akixie.jpg",
@@ -243,7 +243,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 26,
+            id: 376,
             name: "Yeezy 350 V2 Clay",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390805/26_kymjev.jpg",
@@ -251,7 +251,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 27,
+            id: 377,
             name: "Yeezy 350 V2 Hyperspace",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390805/27_nqbctq.jpg",
@@ -259,7 +259,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 28,
+            id: 378,
             name: "Yeezy 350 V2 Abez",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390807/28_ulxmbf.jpg",
@@ -267,7 +267,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 29,
+            id: 379,
             name: "Yeezy 350 V2 Zyon",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390808/29_tpdfsi.jpg",
@@ -275,7 +275,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 30,
+            id: 380,
             name: "Yeezy 350 V2 Bold Orange Real Boost",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390808/30_zxzof8.jpg",
@@ -283,7 +283,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
          {
-            id: 31,
+            id: 381,
             name: "Yeezy 350 V2 Core Black Red",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390809/31_uakno4.jpg",
@@ -293,7 +293,7 @@ function loadShoes() {
 
 
         {
-            id: 32,
+            id: 382,
             name: "Yeezy 350 V2 Black White",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754390830/32_zn9wwt.jpg",
@@ -301,7 +301,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 33,
+            id: 383,
             name: "Yeezy 350 V2 Slate",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391072/33_hvzw5b.jpg",
@@ -309,7 +309,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 34,
+            id: 384,
             name: "Yeezy 350 V2 Blue Tint",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391100/34_arrbn7.jpg",
@@ -317,7 +317,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 35,
+            id: 385,
             name: "Yeezy 350 V2 Cream White",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/35_emeom2.jpg",
@@ -326,7 +326,7 @@ function loadShoes() {
         },
         
         {
-            id: 36,
+            id: 386,
             name: "Yeezy 350 V2 Beluga",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/36_qcdjzb.jpg",
@@ -335,7 +335,7 @@ function loadShoes() {
         },
 
         {
-            id: 38,
+            id: 388,
             name: "Yeezy 350 V2 Earth",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391101/38_z1j739.jpg",
@@ -343,7 +343,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 39,
+            id: 389,
             name: "Yeezy 350 V2 Desert Sage",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391104/39_fyux5x.jpg",
@@ -351,7 +351,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 40,
+            id: 390,
             name: "Yeezy 350 V2 YECHER",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/40_hsx8sk.jpg",
@@ -359,7 +359,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 41,
+            id: 391,
             name: "Yeezy 350 V2 Bred",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/41_psleip.jpg",
@@ -367,7 +367,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 42,
+            id: 392,
             name: "Yeezy 350 V2 Zebra",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391105/42_owkag5.jpg",
@@ -375,7 +375,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 43,
+            id: 393,
             name: "Yeezy 350 V2 Tail Light",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391108/43_g2dyf4.jpg",
@@ -383,7 +383,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 44,
+            id: 394,
             name: "Yeezy 350 V2 Israfil",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391108/44_whgnpd.jpg",
@@ -391,7 +391,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 45,
+            id: 395,
             name: "Yeezy 350 V2 Yecheil Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391109/45_ifmpfl.jpg",
@@ -399,7 +399,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 46,
+            id: 396,
             name: "Yeezy 350 V2 Butter",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391110/46_p2luqn.jpg",
@@ -407,7 +407,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 47,
+            id: 397,
             name: "Yeezy 350 V2 Citrin Reflective",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391112/47_twnr09.jpg",
@@ -415,7 +415,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 48,
+            id: 398,
             name: "Yeezy 350 V2 Lundmark",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391112/48_cdisck.jpg",
@@ -423,7 +423,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 49,
+            id: 399,
             name: "Yeezy 350 V2 Yeshaya",
             price: 390,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754391113/49_hxu7fw.jpg",
@@ -431,7 +431,7 @@ function loadShoes() {
             description: "Incaltari cu Arome de All-Inclusive"
         },
         {
-            id: 101,
+            id: 401,
             name: "Yeezy Slides Glow 2Green",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/1_nkifkh.jpg",
@@ -439,7 +439,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 102,
+            id: 402,
             name: "Yeezy Slides Ochre",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/2_pybsys.jpg",
@@ -447,7 +447,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 103,
+            id: 403,
             name: "Yeezy Slides Onyx",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/3_zj1n5h.jpg",
@@ -455,7 +455,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 104,
+            id: 404,
             name: "Yeezy Slides Azzure",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/4_dmnpke.jpg",
@@ -463,7 +463,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 105,
+            id: 405,
             name: "Yeezy Slides Flax",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/5_w5opka.jpg",
@@ -471,7 +471,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 106,
+            id: 406,
             name: "Yeezy Slides Enflame Orange",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425411/6_aiplru.jpg",
@@ -479,7 +479,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 107,
+            id: 407,
             name: "Yeezy Slides Pure",
             price: 190,
             image: "",
@@ -487,7 +487,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 108,
+            id: 408,
             name: "Yeezy Slides Flax2",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/8_hwwc4t.jpg",
@@ -495,7 +495,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 109,
+            id: 409,
             name: "Yeezy Slides Resin",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/9_emi6de.jpg",
@@ -503,15 +503,15 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 110,
-            name: "Yeezy Slides Flax3", 
+            id: 410,
+            name: "Yeezy Slides Flax3",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/10_vsawxj.jpg",
             sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 111,
+            id: 411,
             name: "Yeezy Slides Flax4",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425412/11_tz2yuc.jpg",
@@ -519,7 +519,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 112,
+            id: 412,
             name: "Yeezy Slides Flax5",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425413/12_abpois.jpg",
@@ -527,7 +527,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 113,
+            id: 413,
             name: "Yeezy Foam Runner Sulfur",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/13_tqhzop.jpg",
@@ -536,7 +536,7 @@ function loadShoes() {
         },
         
         {
-            id: 114,
+            id: 414,
             name: "Yeezy Foam Runner Onyx",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/14_htv8f3.jpg",
@@ -545,7 +545,7 @@ function loadShoes() {
         },
         
         {
-            id: 115,
+            id: 415,
             name: "Yeezy Foam Runner MX Cinder",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/15_ebjsxf.jpg",
@@ -554,7 +554,7 @@ function loadShoes() {
         },
         
         {
-            id: 116,
+            id: 416,
             name: "Yeezy Foam Runner Ararat",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425415/16_oz5w6j.jpg",
@@ -563,7 +563,7 @@ function loadShoes() {
         },
         
         {
-            id: 117,
+            id: 417,
             name: "Yeezy Foam Runner Vermilion",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425416/17_yufbtl.jpg",
@@ -572,7 +572,7 @@ function loadShoes() {
         },
         
         {
-            id: 118,
+            id: 418,
             name: "Yeezy Foam Runner MX Carbon",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425416/18_tr7flq.jpg",
@@ -581,7 +581,7 @@ function loadShoes() {
         },
         
         {
-            id: 119,
+            id: 419,
             name: "Yeezy Foam Runner MX Sand Grey",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425441/19_ow8zpy.jpg",
@@ -589,7 +589,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 120,
+            id: 420,
             name: "Yeezy Foam Runner Ochre",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425469/20_tgujaa.jpg",
@@ -598,7 +598,7 @@ function loadShoes() {
         },
         
         {
-            id: 121,
+            id: 421,
             name: "Yeezy Foam Runner Flax",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425514/21_c9fc8l.jpg",
@@ -606,7 +606,7 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 122,
+            id: 422,
             name: "Yeezy Foam Runner Sulfur",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/22_mbsjzf.jpg",
@@ -615,7 +615,7 @@ function loadShoes() {
         },
         
         {
-            id: 123,
+            id: 423,
             name: "Yeezy Foam Runner Brown bruv",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/23_vfpalc.jpg",
@@ -624,7 +624,7 @@ function loadShoes() {
         },
         
         {
-            id: 124,
+            id: 424,
             name: "Yeezy Foam Runner Cream White",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425515/24_bnalqu.jpg",
@@ -633,7 +633,7 @@ function loadShoes() {
         },
         
         {
-            id: 125,
+            id: 425,
             name: "Yeezy Foam Runner MX Granite",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425516/25_ttwbnt.jpg",
@@ -642,7 +642,7 @@ function loadShoes() {
         }
         ,
         {
-            id: 126,
+            id: 426,
             name: "Yeezy Foam Runner Brown Leaves",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425519/26_pny4bw.jpg",
@@ -651,7 +651,7 @@ function loadShoes() {
         },
         
         {
-            id: 127,
+            id: 427,
             name: "Yeezy Foam Runner MX Cream Clay",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425519/27_jpszmm.jpg",
@@ -659,13 +659,180 @@ function loadShoes() {
             description: "Șlapi de Terasă și Aroganță"
         },
         {
-            id: 129,
+            id: 429,
             name: "Yeezy Foam Runner Mist ",
             price: 190,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754425520/29_ketyvg.jpg",
             sizes: ["36", "37", "38", "39", "40.5", "42", "43", "44.5", "46", "47", "48"],
             description: "Șlapi de Terasă și Aroganță"
+        },
+        {
+            id: 5001,
+            name: "Adidas Samba White",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754488121/1_yatlsy.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
         }
+        ,
+        {
+            id: 5002,
+            name: "Adidas Samba Black",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/2_rxtpea.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5003,
+            name: "Adidas Samba Gray",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/3_kb6raj.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5004,
+            name: "Adidas Samba Linen Cream",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/4_gryyvo.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5005,
+            name: "Adidas Samba Wales Bonner Leopard",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/5_prlsz3.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        
+        ,
+        {
+            id: 5008,
+            name: "Adidas Samba Wales Bonner Silver",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/8_uxsny5.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+       
+        ,
+        {
+            id: 5006,
+            name: "Adidas Samba Wales Bonner Black",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487957/6_d8pssp.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        
+        ,
+        {
+            id: 5007,
+            name: "Adidas Samba Wales Bonner White Brown",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/7_xgxexd.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5009,
+            name: "Adidas Samba JJJJOUND White",
+            price: 399,
+            image: "",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5010,
+            name: "Adidas Samba JJJJOUND Blacks",
+            price: 399,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/10_aoe0hr.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+       
+        ,
+        {
+            id: 5011,
+            name: "Adidas Samba Brown",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/11_irsmhy.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5012,
+            name: "Adidas Samba Green Leopard",
+            price: 399,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/12_me7osc.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5013,
+            name: "Adidas Samba Red Leopard",
+            price: 399,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487958/12_me7osc.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5014,
+            name: "Adidas Samba Silver",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487959/14_imllm6.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5015,
+            name: "Adidas Samba White Blue",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487959/15_ou4pvq.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        ,
+        {
+            id: 5016,
+            name: "Adidas Samba Brown2",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487959/16_ozcxzg.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+         ,
+        {
+            id: 5017,
+            name: "Adidas Samba Cream White",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487959/16_ozcxzg.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+         ,
+        {
+            id: 5018,
+            name: "Adidas Samba Green",
+            price: 349,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754487961/18_qgx8qo.jpg",
+            sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
+            description: "Pantofi de Nuntă cu Buget Mic"
+        }
+        
+
         
         
 
