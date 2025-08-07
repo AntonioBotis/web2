@@ -1148,7 +1148,7 @@ function loadShoes() {
         }
         ,
         {
-            id: 5223,
+            id: 5225,
             name: "Adidas Campus Pink3",
             price: 349,
             image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754514071/25_svhrfx.jpg",
@@ -1386,7 +1386,7 @@ function createProductCard(product, isClothes = false) {
             <div class="product-info">
                 <div class="product-name">${product.name}</div>
                 <div class="product-description">${product.description || 'No description available'}</div>
-                <div class="product-price">$${product.price.toFixed(2)}</div>
+                <div class="product-price">${product.price.toFixed(2)} RON</div>
                 <div class="product-sizes">
                     ${product.sizes.map(size => `<span class="size-tag">${size}</span>`).join('')}
                 </div>
