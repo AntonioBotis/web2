@@ -1155,12 +1155,304 @@ function loadShoes() {
             sizes: ["36", "36.5", "37", "38", "38.5", "39", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45"],
             description: "Pantofi de Nuntă cu Buget Mic"
         }
+        ,
+        {
+            id: 4001,
+            name: "Air Jordan 4 Black Cat",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569595/1_q4zmic.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4002,
+            name: "Air Jordan 4 Midnight Navy",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569595/2_ax7ljm.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
 
-
-
-        
-        
-
+        }
+        ,
+        {
+            id: 400,
+            name: "Air Jordan 4 Military Black",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569595/3_jcvrub.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4004,
+            name: "Air Jordan 4 Bred",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569595/4_iqurzr.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4005,
+            name: "Air Jordan 4 White Oreo",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569595/5_ufbdyz.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4006,
+            name: "Air Jordan 4 Fire Red",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569594/6_hl6zxz.webp",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4007,
+            name: "Air Jordan 4 Red Thunder",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/7_uazkzr.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4008,
+            name: "Air Jordan 4 Lightning",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/8_sghxug.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4009,
+            name: "Air Jordan 4 Military Blue",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/9_eppdd2.webp",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4010,
+            name: "Air Jordan 4 Travis Scott Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/11_yv8lwh.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4012,
+            name: "Air Jordan 4 UNC Blue Premium",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/12_tpb2pj.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4013,
+            name: "Air Jordan 4 Off White",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569596/13_y0plfg.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4014,
+            name: "Air Jordan 4 Taupe Haze",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569597/14_ylr7t7.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4015,
+            name: "Air Jordan 4 Military Blue",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569597/15_ct3nyt.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4016,
+            name: "Air Jordan 4 Black Canvas",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569597/16_o0l4xc.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4017,
+            name: "Air Jordan 4 SB Pine Green",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569597/17_wje8mw.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4018,
+            name: "Air Jordan 4 Union Guava Ice",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569598/18_tl2y94.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4019,
+            name: "Air Jordan 4 Union Off Noir",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569598/19_edj9at.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4020,
+            name: "Air Jordan 4 Forget Me Not",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569602/20_rysxdz.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 400,
+            name: "Air Jordan 4 ",
+            price: 499,
+            image: "",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4021,
+            name: "Air Jordan 4 Yellow Thunder",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569604/21_hiq136.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4022,
+            name: "Air Jordan 4 Bred Reimagined",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569604/22_bmgwpl.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4023,
+            name: "Air Jordan 4 Frozen Moments",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569605/23_fpwpfm.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4024,
+            name: "Air Jordan 4 White Thunder",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569605/24_h03v4h.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4025,
+            name: "Air Jordan 4 Wet Cement",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569605/25_svgudj.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4026,
+            name: "Air Jordan 4 Fear",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569605/26_astphn.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4027,
+            name: "Air Jordan 4 Orchid",
+            price: 499,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569606/27_cbp3el.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4028,
+            name: "Air Jordan 4 A Ma Maniere Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569606/28_ipwkqp.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4029,
+            name: "Air Jordan 4 Travis Scott Purple Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569608/29_azvmy2.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4030,
+            name: "Air Jordan 4 SB Varsity Red Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569611/30_ippccv.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4031,
+            name: "Air Jordan 4 Nigel Sylvester x Brick By Brick Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569611/31_u4ukfd.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4032,
+            name: "Air Jordan 4 UNC Basketball Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569611/32_qxqxca.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
+        ,
+        {
+            id: 4033,
+            name: "Air Jordan 4 Kaws Premium",
+            price: 699,
+            image: "https://res.cloudinary.com/duomi60pe/image/upload/v1754569611/33_q367jw.jpg",
+            sizes: [ "40", "40.5", "41", "42", "42.5", "43", "44", "44.5", "45", "46", "47.5", "48.5"],
+            description: "Papuci de Trotuar cu Demnitate"
+        }
 
 
 
