@@ -484,3 +484,33 @@
             font-size: 6rem;
         }
     }
+    /* Brand chips */
+.brand-chips {
+  display: flex;
+  gap: .5rem;
+  flex-wrap: wrap;
+}
+
+.brand-chip {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.35);
+  color: white;
+  padding: .5rem .9rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: .95rem;
+  transition: transform .15s ease, background .15s ease, border-color .15s ease;
+  user-select: none;
+}
+
+.brand-chip:hover {
+  background: rgba(255,255,255,0.25);
+  transform: translateY(-1px);
+}
+
+.brand-chip.is-active {
+  background: #ffd700;
+  color: #222;
+  border-color: #ffd700;
+  font-weight: 700;
+}
